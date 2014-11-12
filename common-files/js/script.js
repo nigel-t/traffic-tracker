@@ -32,7 +32,7 @@ function fadedEls(el, shift) {
     $(function() {
         var videobackground = new $.backgroundVideo($('#bgVideo'), {
             "align" : "centerXY",
-            "path" : "video/",
+            "path" : "common-files/video/",
             "width": 1280,
             "height": 720,
             "filename" : "traffic-405",

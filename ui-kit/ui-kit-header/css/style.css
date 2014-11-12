@@ -1079,6 +1079,13 @@ section * {
     bottom: 30px;
   }
 }
+.header-10-sub #bgVideo {
+  overflow: hidden;
+}
+.header-10-sub #bgVideo > video {
+  position: absolute !important;
+  top: 0 !important;
+}
 /**
  * Header 11 stylesheet  
  * */
