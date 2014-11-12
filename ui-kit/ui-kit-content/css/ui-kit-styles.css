@@ -1427,12 +1427,6 @@ body .colapsed-menu::-webkit-scrollbar {
     font-weight: 600;
   }
 }
-.content-23-bg {
-  background-image: url('img/traffic.jpg') !important;
-  background-position: 50% 50%;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-}
 .demo {
   background-color: #f2f3f4;
   padding-top: 100px;
